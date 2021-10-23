@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align='center'>
- Front-End Developer with a passion for story-telling, Dungeons and Dragons, data visualization, and coffee
+ Front-End Developer with a passion for story-telling, Dungeons & Dragons, data visualization, and coffee
 </h4>
 <p align='center'>
   <a href="https://www.linkedin.com/in/ian-de-medeiros/">
