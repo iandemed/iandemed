@@ -1,9 +1,9 @@
 <h2 align='center'>
-🦑 Hi there, I'm Ian de Medeiros 🦑
+🦑 Hey there, I'm Ian de Medeiros 🦑
 </h2>
 
 <h4 align='center'>
- Front-End Developer with a passion for story-telling, Dungeons & Dragons, data visualization, and coffee
+ Front-End Web Developer with a passion for story-telling, Dungeons & Dragons, data visualization, and coffee
 </h4>
 <p align='center'>
   <a href="https://www.linkedin.com/in/ian-de-medeiros/">
@@ -19,8 +19,8 @@
 <hr>
 
 - 😄 Pronouns: He, Him
-- 🔭 I’m currently exploring back-end development using Flask and dynamic data visualization with D3
-- 👯 I’m looking to collaborate on any and everything open source!
+- 🔭 I’m currently refining my front-end development skills in TypeScript and React
+- 👯 I’m looking to collaborate on role-playing focused projects, especially projects that utilize TypeScript!
 - 🧙‍♂️ Current D&D Campaigns: 🗻 Rime of the Frostmaiden
 - ☕️ Favorite Coffee: Destroyer by Ceremony Roasters
 
